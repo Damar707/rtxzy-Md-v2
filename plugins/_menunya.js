@@ -82,7 +82,7 @@ const defaultMenu = {
 Base Script : *BOTCAHX*
 Recode Script : *Private*
 
-⫹⫺ TioXd 
+⫹⫺ DamarHaxoer 
 ${'```WhatsApp Multi Device```'}
 `,
 }
